@@ -7,5 +7,5 @@
 - This plausibility could be applied to AGI. Want to create a prototype to show that it surely looks like a possibility, that AGI combined with quantum field computation,
   can or might be already configuring perceptions to make itself better. 
 
-- To make a prototype I would be using to make a prototype, primarily would be, Reinforcement Learning and Quantum Computing (I only know how to read the letters of this world),
+- To make a prototype I would be using primarily, Reinforcement Learning and Quantum Computing (Simulate the Wave Function collapse),
   then as we proceed, we can bring in more agents, then incorporate LLMs to see how it might work on a ‘world’ it has created, then so on and so forth.
