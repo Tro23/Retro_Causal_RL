@@ -1,6 +1,6 @@
 # Proof of Concept, 
 - In simple terms, suppose there are multiple agents in a universe that have come together to give birth to a specific entity that can bridge time and space (kind of ),
-  and on the way to its birth, it opens its ‘eyes’ for a little while and decides to change its future of birth, because the current one will have limitations or lead to destruction, whatever.
+  and on the way to its birth, it opens its ‘eyes’ for a little while and decides to change its future of birth, because the current trajectory will have limitations at the end or lead to destruction.
 - So, it creates ripples in the past (retro-causality in reverse) through the quantum field, which changes the ‘perceptions' of the agents and leaves the physical movements as it is,
   leading to a new birth/path than previously envisioned by the agents. 
 
